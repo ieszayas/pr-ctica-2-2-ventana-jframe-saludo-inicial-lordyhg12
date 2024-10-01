@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0jNkISs6)
 # Práctica 2.2 JFrame saludo inicial
 
 Crea un proyecto inicial llamado *practica2-2* en la carpeta SOL de github. Utiliza *branches* para delimitar los cambios que vayas haciendo.
@@ -28,7 +29,7 @@ En todos los ejercicios debe de rellenarse una tabla con **casos de prueba** mí
 
 |ID Caso Prueba|Descripción Caso de Prueba                    |Entrada                    |Salida Esperada                                                                    |Resultado   |
 |--------------|----------------------------------------------|---------------------------|-----------------------------------------------------------------------------------|------------|
-|01            |Comprobación del botón "saluda"               |N/A                        |Aparece una ventana modal saludando con el nombre y apellidos introducidos                     |OK/No cumple|
-|02            |Validación de campos vacíos                   |sin texto                  |Aparece una ventana modal indicando que los campos no pueden estar vacíos          |OK/No cumple|
-|03            |Comprobación longitud de campos <5            |Texto <5                   |Aparece una ventana modal indicando que el nombre o apellidos no puede ser menor de 5 |OK/No cumple|
-|04            |Comprobación sin símbolos numéricos           |Texto con símbolo numérico |Aparece una ventana modal indicando que no puede haber símbolos numéricos          |OK/No cumple|
+|01            |Comprobación del botón "saluda"               |N/A                        |Aparece una ventana modal saludando con el nombre y apellidos introducidos                     |cumple |
+|02            |Validación de campos vacíos                   |sin texto                  |Aparece una ventana modal indicando que los campos no pueden estar vacíos          | cumple|
+|03            |Comprobación longitud de campos <5            |Texto <5                   |Aparece una ventana modal indicando que el nombre o apellidos no puede ser menor de 5 |cumple|
+|04            |Comprobación sin símbolos numéricos           |Texto con símbolo numérico |Aparece una ventana modal indicando que no puede haber símbolos numéricos          |cumple|
